@@ -1,0 +1,9 @@
+Project C:/Users/alemen/Documents/ASEM/UNIQO/Projects/ModelSanitizerDemo/ModelSanitizerDemo.uniqo upgraded on 15-03-2022 09:20:33.025
+
+Upgraded modules:
+QPlatform.NativeUI: from 26.1.0.0 to 26.3.0.6
+QPlatform.UI: from 43.1.0.0 to 43.3.0.6
+
+No potential breaking changes detected
+
+
