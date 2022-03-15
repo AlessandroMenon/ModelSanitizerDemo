@@ -13,3 +13,7 @@ Children:
     Type: BaseDataVariableType
     DataType: Int32
     Value: 0
+  - Name: Torque
+    Type: BaseDataVariableType
+    DataType: Int32
+    Value: 0
