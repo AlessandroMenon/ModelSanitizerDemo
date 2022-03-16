@@ -5,7 +5,7 @@ Project:
  Company: ''
  Copyright: ''
  FormatVersion: 1
- CoreVersion: 8.0.0.29
+ CoreVersion: 8.0.0.42
  Dependencies:
   2:
    Uri: ModelSanitizerDemo
@@ -13,5 +13,5 @@ Project:
   3:
    Uri: 'urn:QPlatform:CoreBase'
    Module: QPlatform.CoreBase
-   Version: 8.0.5.69
+   Version: 8.0.5.82
  Nodes: []

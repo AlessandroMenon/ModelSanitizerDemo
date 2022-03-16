@@ -5,23 +5,23 @@ Project:
  Company: ''
  Copyright: ''
  FormatVersion: 1
- CoreVersion: 8.0.0.29
+ CoreVersion: 8.0.0.42
  Dependencies:
   2:
    Uri: 'urn:QPlatform:CoreBase'
    Module: QPlatform.CoreBase
-   Version: 8.0.5.69
+   Version: 8.0.5.82
   3:
    Uri: 'urn:QPlatform:UI'
    Module: QPlatform.UI
-   Version: 43.3.0.6
+   Version: 43.3.0.19
   4:
    Uri: 'urn:QPlatform:HMIProject'
    Module: QPlatform.HMIProject
-   Version: 10.1.4.69
+   Version: 10.1.4.82
   5:
    Uri: 'urn:QPlatform:NativeUI'
    Module: QPlatform.NativeUI
-   Version: 26.3.0.6
+   Version: 26.3.0.19
  Nodes:
  - File: Nodes/ModelSanitizerDemo.yaml
