@@ -7,9 +7,13 @@ Children:
   Children:
   - Name: Speed
     Type: BaseDataVariableType
+    DataType: Float
+    Value: 0.0
+  - Name: Acceleration
+    Type: BaseDataVariableType
     DataType: Int32
     Value: 0
-  - Name: Acceleration
+  - Name: Torque
     Type: BaseDataVariableType
     DataType: Int32
     Value: 0
@@ -18,9 +22,13 @@ Children:
   Children:
   - Name: Speed
     Type: BaseDataVariableType
+    DataType: Float
+    Value: 0.0
+  - Name: Acceleration
+    Type: BaseDataVariableType
     DataType: Int32
     Value: 0
-  - Name: Acceleration
+  - Name: Torque
     Type: BaseDataVariableType
     DataType: Int32
     Value: 0
